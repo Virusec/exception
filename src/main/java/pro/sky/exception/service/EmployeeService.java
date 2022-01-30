@@ -1,4 +1,6 @@
-package pro.sky.exception;
+package pro.sky.exception.service;
+
+import pro.sky.exception.data.Employee;
 
 public interface EmployeeService {
     Employee add(String firstName, String lastName);

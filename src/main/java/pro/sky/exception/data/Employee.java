@@ -1,4 +1,4 @@
-package pro.sky.exception;
+package pro.sky.exception.data;
 
 import java.util.Objects;
 
